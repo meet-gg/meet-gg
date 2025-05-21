@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/119945124?v=4" width="120" align="right" alt="Meet Goyani's profile image" />
+<img src="https://avatars.githubusercontent.com/u/164496652" width="120" align="right" alt="Meet Goyani's profile image" />
 
 # Hi, I'm Meet Goyani! 👋
 
